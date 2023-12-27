@@ -10,7 +10,7 @@ Copy and paste the script in [add_to_webpage.js](https://github.com/do-me/vatica
 Copy and paste the script in [add_to_leaflet.js](https://github.com/do-me/vatican-windrose/blob/main/add_to_leaflet.js) in your browser console. It adds the markers to your webpage as Leaflet Map controls. A click scrolls in the respective direction. 
 
 ## To Do: 
-- npm package for fun
+- npm package
 
 ## Why? 
 For fun.
