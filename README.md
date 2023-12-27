@@ -18,6 +18,7 @@ Copy and paste the script in [add_to_leaflet.js](https://github.com/do-me/vatica
 - Images: Dominik Weckmüller 30/04/2023
 - Historical Info: [https://stpetersbasilica.info/Exterior/Obelisk/WindRose.htm](https://stpetersbasilica.info/Exterior/Obelisk/WindRose.htm)
 - Location: St. Peter's Square, Vatican [https://www.openstreetmap.org/#map=17/41.90217/12.45700](https://www.openstreetmap.org/#map=17/41.90217/12.45700)
+![](gifs/west_view.jpg)
 
 ## Why? 
 For fun mainly. On a second thought the controls might actually be useful for accessibility.
