@@ -11,3 +11,6 @@ Copy and paste the script in [add_to_leaflet.js](https://github.com/do-me/vatica
 
 ## To Do: 
 - npm package for fun
+
+## Why? 
+For fun.
