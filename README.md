@@ -1,5 +1,5 @@
 # Vatican Windrose
-The four Vatican wind rose marble markers of St. Peter's Square turned into controls for your webpage or Leaflet map. 
+The four Vatican wind rose marble markers of St. Peter's Square from Filippo Luigi Gilij (1817) turned into controls for your webpage or Leaflet map. 
 
 ![](markers/wind_rose.png)
 
