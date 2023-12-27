@@ -16,8 +16,9 @@ Copy and paste the script in [add_to_leaflet.js](https://github.com/do-me/vatica
 
 ## Info
 - Images: Dominik Weckmüller 30/04/2023
-- Historical Info: [https://stpetersbasilica.info/Exterior/Obelisk/WindRose.htm](https://stpetersbasilica.info/Exterior/Obelisk/WindRose.htm)
-- Location: St. Peter's Square, Vatican [https://www.openstreetmap.org/#map=17/41.90217/12.45700](https://www.openstreetmap.org/#map=17/41.90217/12.45700)
+- Historical Info: https://www.epogea.eu/en/works/wind-rose-st-peter/
+- Location: St. Peter's Square, Vatican https://www.openstreetmap.org/#map=17/41.90217/12.4570
+- Fun Fact: a copy of the Eastern one made it to [China: Beijing Horticulture Expo](https://www.epogea.eu/en/works/wind-rose-st-peter/)
 ![](gifs/west_view.jpg)
 
 ## Why? 
