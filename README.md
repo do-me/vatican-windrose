@@ -13,6 +13,8 @@ Copy and paste the script in [add_to_leaflet.js](https://github.com/do-me/vatica
 
 ## To Do: 
 - npm package
+- simple css wind animation, blowing from the markers towards the center
+- clicking effect
 
 ## Info
 - Images: Dominik Weckmüller 30/04/2023
